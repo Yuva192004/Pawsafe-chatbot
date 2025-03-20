@@ -1,0 +1,7 @@
+POST http://192.168.200.163:5000/api/chat HTTP/1.1
+Content-Type: application/json
+
+{
+    "message":"Hi,what are dogs",
+    "userId":"67d3cdd6b40a951803c0184f"
+}
